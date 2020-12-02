@@ -1,6 +1,6 @@
 ### Hola 👋 Mi nombre es Diego Markiewicz
 ![header](head.jpg)
-- 🔭 Actualmente estoy desarrollando software para la empresa AkaromSoft, tambien hago trabajos freelance.:boom:
+- 🔭 Actualmente estoy desarrollando software para la empresa Sooft, tambien hago trabajos freelance.:boom:
   🔭 stack :
    Frontend 
       -:feelsgood: html -  :godmode: css - :goberserk: javascript  - :rage2: Jquery - :rage4: Boostrap -  :rage2: Cordova 
